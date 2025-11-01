@@ -1,0 +1,14 @@
+{
+  "name": "ong-esperanca",
+  "version": "1.0.0",
+  "description": "ONG Esperança - Transformando vidas através da solidariedade.",
+  "author": "ONG Esperança",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Site estático - nenhum build necessário'"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
