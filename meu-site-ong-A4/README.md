@@ -28,8 +28,8 @@ meu-site-ong-A4/
 ├── js/
 │ ├── bundle.min.js
 │ └── accessibility.min.js
-├── img/
-│ └── favicon.ico
+├── assets/
+│ └── imagem-OE.ico
 ├── ACCESSIBILITY.md
 ├── CONTRIBUTING.md
 ├── CODEOWNERS
